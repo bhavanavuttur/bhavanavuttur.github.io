@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio of Bhavana Vuttur</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bhavana Vuttur</h1>
+        <p>Software Developer</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a passionate software developer with 5 years of experience in web and software development, specializing in front-end and back-end technologies.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>JavaScript (ES6+)</li>
+            <li>Python</li>
+            <li>React</li>
+            <li>Node.js</li>
+            <li>SQL and NoSQL Databases</li>
+            <li>API Development</li>
+        </li>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <article>
+            <h3>Project One</h3>
+            <p>This is a brief description of the first project.</p>
+            <a href="https://example.com/project1">View Project</a>
+        </article>
+        <article>
+            <h3>Project Two</h3>
+            <p>This is a brief description of the second project.</p>
+            <a href="https://example.com/project2">View Project</a>
+        </article>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:bhavanavuttur@gmail.com">bhavanavuttur@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/bhavanavuttur">linkedin.com/in/johndoe</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 John Doe. All rights reserved.</p>
+    </footer>
+</body>
+</html>
